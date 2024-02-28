@@ -1,7 +1,7 @@
 # <marquee>Relogio Digital</marquee><hr color="red">
-relogio digital simples,  desktop (no-mobile)
+relogio digital simples / simple digital watch  desktop (no-mobile)
 
-# Tecnologias e Ferramentas
+# Tecnologias e Ferramentas / Technologies and Tools
 * HTML
 * CSS
 * JAVASCRIPT
@@ -9,5 +9,5 @@ relogio digital simples,  desktop (no-mobile)
 # Editor 
 * VSCODE
 
-# Navegador teste
+# Navegador teste / Test browser
 * Google Chrome
